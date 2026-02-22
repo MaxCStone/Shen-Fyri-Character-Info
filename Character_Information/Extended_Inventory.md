@@ -9,6 +9,8 @@ PP: 0
 ## Weapons (5.5 lb)
 * Darts, 10 ( 2.5 lb total, 0.25 lb each)
 > 1d4 piercing, Finesse, thrown (20/60)
+* Longbow (2 lb)
+> Ammunition, range (150/600), heavy, two-Handed
 * Longsword (3 lb)
 > 1d8 slashing, Versatile (1d10)
 
