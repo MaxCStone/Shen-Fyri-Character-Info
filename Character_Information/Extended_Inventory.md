@@ -21,8 +21,6 @@ PP: 0
 * Rations, 10 (20 lb total, 2 lb each)
 * Tinderbox (1 lb)
 > Using it to light a torch — or anything else with abundant, exposed fuel — takes an action. Lighting any other fire takes 1 minutes.
-* Torches, 10 (10 lb total, 1 lb each)
-> A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
 * Waterskin (5 lb full)
 > 4 pints capacity
 
@@ -43,23 +41,26 @@ PP: 0
 * Incense, 5 Sticks (0 lb)
 * Mess Kit (1 lb)
 * Money Pouch (1 lb)
+* Calligrapher's Supplies (5 lb)
+* Journal (2 lb)
 
-## Total Weight: 77 / 150 lb (10 x Strength Value)
-## Backpack Capacity: 30 lb / 30 lb
+## Total Weight: 76 / 150 lb (10 x Strength Value)
+## Backpack Capacity: 18 lb / 30 lb
 ### Items inside Backpack
 * Common Clothes (3 lb)
 * Daoist Scripture (5 lb)
 * Incense, 5 Sticks (0 lb)
-* Rations, 10 (20 lb)
 * Tinderbox (1 lb)
 * Mess Kit (1 lb)
+* Calligraphy Supplies & Journal (8 lb)
 ### Items Strapped to Backpack
 * Bedroll
-* Rope, 50 Feet 
-* Torches, 10
+* Rope, 50 Fee
+* Rations
 * Waterskin
 
 ## Worn Items
+* Longbow
 * Darts
 * Daoist Robes
 * Holy Symbol
