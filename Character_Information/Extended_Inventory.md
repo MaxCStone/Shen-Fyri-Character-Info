@@ -34,6 +34,7 @@ PP: 0
 * Backpack (5 lb)
 > 1 ft^3/ 30 lb capacity, you can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack. Current capacity: 
 * Bedroll (7 lb)
+* Calligrapher's Supplies (5 lb)
 * Daoist Scripture (5 lb)
 > Concealed Instructions for the Ascent to Perfection
 * Holy Symbol (0 lb)
@@ -41,7 +42,6 @@ PP: 0
 * Incense, 5 Sticks (0 lb)
 * Mess Kit (1 lb)
 * Money Pouch (1 lb)
-* Calligrapher's Supplies (5 lb)
 * Journal (2 lb)
 
 ## Total Weight: 76 / 150 lb (10 x Strength Value)
