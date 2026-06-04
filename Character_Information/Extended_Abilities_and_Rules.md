@@ -74,8 +74,14 @@ The chosen weapon must meet these criteria:
 ### Patient Defense
 You can spend 1 ki point to take the Dodge action as a bonus action on your turn.
 
+### Quickened Healing
+Also at 4th level, as an action, you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus.
+
 ### Step of the Wind
 You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
+
+### Slow Fall
+Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
 
 ### Unarmored Defense
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
